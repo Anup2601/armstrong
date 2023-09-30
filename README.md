@@ -1,1 +1,1 @@
-# armstrong
+# sum of element in array
